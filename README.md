@@ -18,6 +18,7 @@ A simple task management application built with React, MobX, and Tailwind CSS.
 1. Start the development server:
 
 2. Open your browser and visit `http://localhost:3000` to access the application.
+3. L link to the live app:- `https://task-management-system-tau.vercel.app/`.
 
 ## Built With
 
